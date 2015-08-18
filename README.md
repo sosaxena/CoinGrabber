@@ -1,0 +1,2 @@
+# CoinGrabber
+Scala Progarm
